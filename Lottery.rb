@@ -5,7 +5,7 @@
 		p "You Win!"
 	else
 		p "Fail"
-	end
+	end  
 	winning
 end
 
